@@ -57,5 +57,5 @@ class SomeController: UIViewController {
 }
 
 class ChatController: UIViewController {
-    // Контроллер, на который переходим при нажатии на ячейку
+    // Контроллер, на который переходим при нажатии на ячейку.
 }
